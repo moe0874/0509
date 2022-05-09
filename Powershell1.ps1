@@ -1,1 +1,2 @@
 Connect-MicrosoftTeams
+Get-Team
